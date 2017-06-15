@@ -1,5 +1,7 @@
 /*.pdf
 
+!main.pdf
+
 *.aux
 *.bcf
 *.bbl
@@ -13,4 +15,3 @@
 *.snm
 *.toc
 *.gz
-
